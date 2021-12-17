@@ -21,4 +21,4 @@ Ex: USD para BRL, USD para BTC, ETH para BRL, etc...
 A requisição deve receber como parâmetros: A moeda de origem, o valor a ser convertido e a moeda final.
 Ex: ?from=BTC&to=EUR&amount=123.45
 
-## Instalação da Aplicação
+## Instalação da Aplicação 
